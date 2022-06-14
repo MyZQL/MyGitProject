@@ -1,5 +1,0 @@
-# 了解详细的语法规则，在Linux终端中输入man gitignore查看。
-build           # 忽略build文件夹 
-test.*            # 忽略test开头的所有文件
-!README.md       # 必须包含README.md文件
-!/src            # 必须包含src文件夹
